@@ -10,5 +10,4 @@
 ## How To Reach Me:
 - [Email](hdz_enrique@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/hern%C3%A1ndez-trejo-enrique-alberto-407388238/)
-- [Twitter](https://twitter.com/EnriqueHdzT) 
-<br> I usually don't post anything, but I'm always aware of my messages
+- No social media, sorry, but it is just not for me.

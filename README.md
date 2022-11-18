@@ -1,6 +1,6 @@
 ## What Am I Doing Right Now?
-- 🧠 I’m currently working on my building my WEB portfolio, school stuff and a very secret software (I don't want to tease it, but if you're a YouTuber you're going to love it)
-- 📑 I’m currently learning Angular, TypeScript and React for Web Development, as well as Android Development with Kotlin.
+- 🧠 I’m currently working on getting my university degree and some Web and android projects, to add to my portfolio.
+- 📑 I’m currently learning TypeScript and React for Web Development, as well as Kotlin for Android Development.
 - 🎨 I'm learning to sketch and draw as well, I have zero talent but still, really excited about it.
 
 ## How To Reach Me:
